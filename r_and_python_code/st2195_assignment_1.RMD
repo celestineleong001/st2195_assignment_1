@@ -1,0 +1,17 @@
+---
+title: "Assignment 1"
+author: "Celestine"
+date: "October 10, 2023"
+output: html_document
+---
+
+# Assignment 1
+
+This document contains the code and explanations for Assignment 1.
+
+## R Code
+This is the integers running from 1 to 10. 
+
+for (i in 1:10) {
+  cat(i, "\n")
+}
